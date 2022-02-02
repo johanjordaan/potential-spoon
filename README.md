@@ -1,2 +1,2 @@
 # potential-spoon
-The name says it all :)
+Quiz running system - Server (Django), Participant App (Unity) and Host App (Unity)
